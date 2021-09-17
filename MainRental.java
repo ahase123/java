@@ -1,3 +1,4 @@
+// ahase1にて修正
 public class MainRental{
     public static void main(String[] args){
 

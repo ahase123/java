@@ -3,7 +3,7 @@ public class MainRental{
 
         Movie my_movie = new Movie("七人の侍",0);
 
-        Customer my_customer = new Customer("hiroko");
+        Customer my_customer = new Customer("akiraakira");
         Rental my_rental = new Rental(my_movie, 10);
 
         my_customer.addRental(my_rental);
